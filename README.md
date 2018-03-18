@@ -22,5 +22,5 @@ This resulted in PID values [0.14,0.0,2.3]
 
 # Simulation
 
-The car drives through the track without errors. A video of the test drive is in the videos subdirectory.
+The car drives through the track without errors. A video of the test drive is in the top level directory.
 
